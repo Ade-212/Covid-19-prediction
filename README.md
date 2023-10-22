@@ -10,6 +10,6 @@ This project is a data-driven application developed as part of the final project
 * prophet: A powerful forecasting tool used for making forecasts for time series data that i used to forecast future covid-19 infection rates.
 
 # Problems Faced:
-* Data cleaning: Handling missing or inconsistent data in the datasets.
+* Data cleaning: Handling missing or inconsistent data in the datasets as dealing with worldwide datasets there was a lot of missing and null values. To enhance the project, I plan to integrate data from various sources and refine the prediction models using more sophisticated algorithms. Additionally, I aspire to incorporate geographical information to visualize the virus's spread on a global map.
 * Model Accuracy: Fine tuning the prediction model to improve accuracy.
 * finding recent datasets
